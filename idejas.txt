@@ -1,0 +1,23 @@
+API priekš telefona nr/e-pasta apstiprināšanas ar kodu??
+
+
+Klienta daļas nodaļas
+- Jaunākās grāmatas
+- Visas grāmatas
+- Kontakti
+
+
+Grāmatu paņemšanas loģika
+lietotājs izvēlās grāmatu/grāmatas (ar skaita limitu?) -> Ievada vārdu, uzvārdu, tel. nr. -> grāmata tiek rezervēta -> darbinieks var grāmatas rezervāciju apstiprināt, kad tā ir nodota lietotājam uz vietas (ievadot kodu, kuru lietotājs saņēma?)
+
+
+Admin daļas nodaļas
+- dashboard (statistika- grāmatas bibliotēkā, rezervētas grāmatas, paņemtas grāmatas, lasītāju sk.)
+- lasītāji (dati- vārds, uzvārds, tel nr./e-pasts, vrbt paņemto grāmatu skaits?)
+- grāmatas (filtri- visas, rezervētas, paņemtas)
+- darbinieki (pieejams tikai administratoram)
+
+
+Stils
+Gaišajā režīmā teksts, varbūt pogas utt. ir tumšajās krāsās, bet fons gaišajā
+Tumšajā režīmā otrādi
